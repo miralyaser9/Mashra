@@ -26,3 +26,11 @@ User authentication and profile management
 Multi-language support
 
 Order history, tracking, and saved preferences
+
+🚀 Highlights
+
+Built with Flutter for cross-platform performance
+
+Combines e-commerce and professional service management in one platform
+
+Scalable system for individuals, freelancers, and businesses
