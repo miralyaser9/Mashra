@@ -27,6 +27,16 @@ Multi-language support
 
 Order history, tracking, and saved preferences
 
+🔗 Dynamic App Links
+
+Generate shareable links for products or meals
+
+Users can share links with others to browse specific items
+
+Quick access social platforms
+
+Improves visibility and marketing of products and services
+
 🚀 Highlights
 
 Built with Flutter for cross-platform performance
